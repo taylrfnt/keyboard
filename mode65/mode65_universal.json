@@ -3,7 +3,7 @@
   "vendorProductId": 14571348,
   "macros": [
     "{KC_LGUI,KC_LSFT,KC_4}",
-    "",
+    "{KC_LALT,KC_LGUI,KC_EJCT}",
     "",
     "",
     "",
@@ -133,7 +133,7 @@
       "KC_F11",
       "KC_F12",
       "KC_TRNS",
-      "KC_EJCT",
+      "MACRO(1)",
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
