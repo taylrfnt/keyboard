@@ -1,7 +1,10 @@
 {
   "name": "LK65",
   "vendorProductId": 839864405,
-  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "macros": [
+    "{KC_LGUI,KC_LSFT,KC_4}",
+    "{KC_LALT,KC_LGUI,KC_EJCT}",
+    "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
       "KC_GESC",
